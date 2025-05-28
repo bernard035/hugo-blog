@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://bernard035.github.io/sitemap.xml
