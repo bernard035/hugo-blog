@@ -20,7 +20,7 @@ draft: true
 - Field of Study: Performance Engineering  / Hardware-Software Collaborative Optimization
 - Duration: Sep 2023 – Present  
 - Supervisor: Kingsum Chow  
-- Pending Degree Date: Mar 2026  
+- Pending Degree Date: June 2026  
 
 ### Bachelor of Engineering in Software Engineering  
 **School of Software, Jiangxi Normal University**  
