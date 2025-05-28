@@ -1,7 +1,7 @@
 ---
 title: "Xinyu Jiang's resume"
 date: 2025-05-06T20:23:26+08:00
-draft: true
+draft: false
 ---
 
 
