@@ -27,7 +27,7 @@ jobs:
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.PUBLISH_IO_TOKEN }}
+          personal_token: ${{ secrets.PUBLISH_IO_TOKEN }}
           publish_dir: ./public
           publish_branch: main  # 推送到main分支
           external_repository: bernard035/bernard035.github.io  # 指定目标仓库
