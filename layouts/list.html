@@ -114,6 +114,27 @@
         <span class="dots">…</span>
       {{- end }}
     {{- end }}
+    {{- /* jump-to-page input (Enter to navigate) */}}
+    <span class="jump">
+      <input id="page-jump" type="number" min="1" max="{{ $total }}" inputmode="numeric"
+             placeholder="跳转" aria-label="跳转到指定页">
+      <span class="jump-total">/ {{ $total }}</span>
+    </span>
+    <script>
+    (function () {
+      var el = document.getElementById('page-jump');
+      if (!el) return;
+      el.addEventListener('keydown', function (e) {
+        if (e.key !== 'Enter') return;
+        var v = parseInt(el.value, 10);
+        if (isNaN(v)) return;
+        var min = parseInt(el.min, 10), max = parseInt(el.max, 10);
+        v = Math.min(Math.max(v, min), max);
+        var base = {{ $base }};
+        location.href = v === 1 ? base : base + 'page/' + v + '/';
+      });
+    })();
+    </script>
     {{- if $paginator.HasNext }}
     <a class="next" href="{{ $paginator.Next.URL | absURL }}" aria-label="next page">»</a>
     {{- end }}

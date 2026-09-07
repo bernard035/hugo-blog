@@ -27,3 +27,38 @@
     line-height: 36px;
     color: var(--secondary);
 }
+
+.pagination .jump {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 13px;
+    color: var(--secondary);
+}
+
+.pagination .jump input {
+    width: 64px;
+    height: 36px;
+    border: 1px solid var(--tertiary);
+    border-radius: calc(36px / 2);
+    background: var(--primary);
+    color: var(--content);
+    text-align: center;
+    font-size: 13px;
+    outline: none;
+}
+
+.pagination .jump input:focus {
+    border-color: var(--theme);
+}
+
+.pagination .jump input::-webkit-outer-spin-button,
+.pagination .jump input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+.pagination .jump input[type=number] {
+    -moz-appearance: textfield;
+    appearance: textfield;
+}
