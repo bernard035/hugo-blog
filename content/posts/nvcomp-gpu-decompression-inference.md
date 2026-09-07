@@ -3,7 +3,7 @@ title: "nvCOMP GPU 解压缩实践：性能表征、推理框架接入与地址�
 date: 2026-09-03T18:30:00+08:00
 draft: false
 tags: ["nvCOMP", "GPU", "推理优化", "CUDA", "性能优化"]
-categories: ["性能工程"]
+categories: ["技术分享"]
 showToc: true
 TocOpen: false
 ---

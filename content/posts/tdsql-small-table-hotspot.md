@@ -3,7 +3,7 @@ title: "TDSQL 小表热点问题分析与优化"
 date: 2026-09-03T10:00:00+08:00
 draft: false
 tags: ["TDSQL", "MySQL", "InnoDB", "Performance", "性能优化"]
-categories: ["数据库"]
+categories: ["技术分享"]
 showToc: true
 TocOpen: false
 ---

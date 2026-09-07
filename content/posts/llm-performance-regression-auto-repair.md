@@ -3,7 +3,7 @@ title: "基于 LLM 的版本性能劣化自动定位与修复系统"
 date: 2026-09-03T14:00:00+08:00
 draft: false
 tags: ["LLM", "AI Agent", "性能优化", "CI/CD", "自动化"]
-categories: ["AI 工程"]
+categories: ["技术分享"]
 showToc: true
 TocOpen: false
 ---

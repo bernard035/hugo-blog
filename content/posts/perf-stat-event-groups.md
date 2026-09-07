@@ -3,7 +3,7 @@ title: "perf stat 硬件事件组编排最佳实践"
 date: 2026-09-03T17:00:00+08:00
 draft: false
 tags: ["perf", "Linux", "PMU", "性能分析"]
-categories: ["性能工程"]
+categories: ["技术分享"]
 showToc: true
 TocOpen: false
 ---

@@ -3,7 +3,7 @@ title: "SPEC CPU 2017 详解：套件、评分与 base/peak 调优"
 date: 2026-09-03T16:00:00+08:00
 draft: false
 tags: ["SPEC CPU", "Benchmark", "性能测试", "CPU"]
-categories: ["性能工程"]
+categories: ["技术分享"]
 showToc: true
 TocOpen: false
 ---
