@@ -30,4 +30,5 @@ jobs:
           personal_token: ${{ secrets.PUBLISH_IO_TOKEN }}
           publish_dir: ./public
           publish_branch: main  # 推送到main分支
+          force_orphan: true  # 每次部署都是全新单提交，不在 Pages 仓库堆积历史（含敏感内容）
           external_repository: bernard035/bernard035.github.io  # 指定目标仓库
