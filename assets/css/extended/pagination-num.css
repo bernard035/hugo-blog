@@ -1,0 +1,29 @@
+/* numbered pagination (site override of PaperMod's prev/next-only nav) */
+.pagination {
+    gap: 6px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pagination .next {
+    margin-inline-start: auto;
+}
+
+.pagination .prev {
+    margin-inline-end: auto;
+}
+
+.pagination span.num.active {
+    display: inline-block;
+    background: var(--theme);
+    color: var(--primary);
+    font-size: 13px;
+    line-height: 36px;
+    border-radius: calc(36px / 2);
+    padding: 0 16px;
+}
+
+.pagination .dots {
+    line-height: 36px;
+    color: var(--secondary);
+}
