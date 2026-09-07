@@ -10,6 +10,8 @@ content/posts/          # 全部文章（英文 kebab-case 文件名）
   └── 技术分享           # 性能工程 / AI 工程 / 数据库等技术文章
 static/images/          # 文章配图（自托管，相对引用 /images/...）
 layouts/partials/extend_head.html   # KaTeX 公式渲染（仅对 math: true 的页面加载）
+layouts/list.html                    # 列表页数字分页（覆盖主题模板；主题大版本更新后需比对新版）
+assets/css/extended/pagination-num.css  # 数字分页样式（PaperMod 自动合并该目录下 CSS）
 themes/PaperMod/        # 主题，git submodule（github.com/adityatelange/hugo-PaperMod）
 ```
 
