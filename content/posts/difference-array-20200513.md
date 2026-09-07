@@ -4,7 +4,7 @@ date: 2020-05-13T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解"]
 ---
 如果通过僵硬地涂色来计算单点权重，2e5\*2e5必然TLE。

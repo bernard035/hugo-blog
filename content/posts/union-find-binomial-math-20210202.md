@@ -4,7 +4,7 @@ date: 2021-02-02T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解", "并查集", "数论", "数学"]
 ---
 前置知识：简单并查集、简单逆元、简单组合数学

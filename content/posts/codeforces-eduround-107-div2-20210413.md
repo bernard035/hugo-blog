@@ -4,7 +4,7 @@ date: 2021-04-13T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题集"]
 tags: ["题集"]
 ---
 <https://codeforces.com/contest/1511>

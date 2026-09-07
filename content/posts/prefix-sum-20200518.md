@@ -4,7 +4,7 @@ date: 2020-05-18T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解"]
 ---
 二维前缀和，思路是建一个二维数组表示从$[1,1]$炸到$[i,j]$所能收获的value之和。

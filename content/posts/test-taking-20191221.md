@@ -4,7 +4,7 @@ date: 2019-12-21T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解"]
 ---
 这是牛客假日团队赛27的D题,也是洛谷P2988。  

@@ -4,7 +4,7 @@ date: 2021-09-25T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/赛后分析"]
 tags: ["赛后分析", "ICPC"]
 ---
 线段树最后debug时间不够了orz 这场打得一般

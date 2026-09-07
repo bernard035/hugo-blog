@@ -4,7 +4,7 @@ date: 2020-02-05T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/赛后分析"]
 tags: ["赛后分析", "牛客"]
 ---
 每次打比赛都能有一些收获，这次主要有以下几个点：  

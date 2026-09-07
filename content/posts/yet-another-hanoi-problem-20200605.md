@@ -4,7 +4,7 @@ date: 2020-06-05T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解"]
 ---
 ## [Yet Another Hanoi Problem](https://ac.nowcoder.com/acm/contest/5795/N)

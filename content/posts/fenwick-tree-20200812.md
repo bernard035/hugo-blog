@@ -4,7 +4,7 @@ date: 2020-08-12T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/算法笔记"]
 tags: ["学习笔记", "树状数组"]
 ---
 ![图片说明](/images/b79321e282db5671.png)

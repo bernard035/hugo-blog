@@ -4,7 +4,7 @@ date: 2020-05-04T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题集"]
 tags: ["题集", "并查集"]
 ---
 ## [HDU 1213](http://acm.hdu.edu.cn/showproblem.php?pid=1213)

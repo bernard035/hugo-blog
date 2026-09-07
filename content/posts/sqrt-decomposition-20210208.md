@@ -4,7 +4,7 @@ date: 2021-02-08T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解"]
 ---
 $N=10$时$S={10,5,3,2,1}$

@@ -4,7 +4,7 @@ date: 2020-09-12T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解"]
 ---
 1. 先对数据进行处理：大于b的改成1，小于的改成-1，等于的改成0

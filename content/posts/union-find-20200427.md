@@ -4,7 +4,7 @@ date: 2020-04-27T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/算法笔记"]
 tags: ["模板", "并查集"]
 ---
 # 并查集简介

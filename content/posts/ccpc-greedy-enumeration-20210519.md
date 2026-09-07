@@ -4,7 +4,7 @@ date: 2021-05-19T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解", "CCPC", "贪心", "模拟"]
 ---
 ![图片说明](/images/acfc592a164ec279.png "图片标题")

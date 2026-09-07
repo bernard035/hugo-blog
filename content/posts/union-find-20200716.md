@@ -4,7 +4,7 @@ date: 2020-07-16T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解", "并查集"]
 ---
 一开始我认为本题是最短路，采用了BFS实现，只能过47%的案例。

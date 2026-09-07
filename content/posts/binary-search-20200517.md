@@ -4,7 +4,7 @@ date: 2020-05-17T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解", "二分"]
 ---
 没什么可说的，记录一下写法，以及long double这种精度

@@ -4,7 +4,7 @@ date: 2020-11-20T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解", "模拟"]
 ---
 完全k叉树，每层节点数量是已知的，直接推过去模拟就可以了

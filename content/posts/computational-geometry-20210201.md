@@ -4,7 +4,7 @@ date: 2021-02-01T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解", "计算几何"]
 ---
 ![图片说明](/images/ad5c1233a3d872cb.png)

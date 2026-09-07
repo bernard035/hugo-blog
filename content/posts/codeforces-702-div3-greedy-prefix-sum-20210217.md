@@ -4,7 +4,7 @@ date: 2021-02-17T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/赛后分析"]
 tags: ["赛后分析", "Codeforces", "贪心"]
 ---
 <https://codeforces.com/contest/1490>

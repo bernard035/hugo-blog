@@ -4,7 +4,7 @@ date: 2021-07-13T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解"]
 ---
 [pecco](https://www.zhihu.com/column/c_1182444932760125440)

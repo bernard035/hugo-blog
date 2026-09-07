@@ -4,7 +4,7 @@ date: 2020-05-15T12:00:00+08:00
 draft: false
 math: true
 showToc: true
-categories: ["算法竞赛"]
+categories: ["算法竞赛", "算法竞赛/题解"]
 tags: ["题解"]
 ---
 和校门口的树是一样的。只不过校门口的树数据太水了。
